@@ -1,0 +1,7 @@
+node_modules
+/build/*
+.github/
+.npm
+.idea
+package-lock.json
+.DS_Store
