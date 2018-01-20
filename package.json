@@ -15,7 +15,7 @@
   "homepage": "https://github.com/dioimamwibisana/react-redux-simple-app#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "jquery": "^3.2.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
